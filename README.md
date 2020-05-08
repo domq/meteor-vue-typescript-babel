@@ -7,7 +7,7 @@ This package is an add-on for [akryum:vue-component](https://github.com/Akryum/v
 
 ## Installation
 
-    meteor add nathantreid:vue-typescript
+    meteor add nathantreid:vue-typescript-babel
 
 
 ## Usage
